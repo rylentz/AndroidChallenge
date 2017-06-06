@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RiteKit Android Challenge</string>
+    <string name="facebook_app_id">229750677514251</string>
+    <string name="fb_login_protocol_scheme">fb229750677514251</string>
+    <string name="welcome_message">Welcome to the RiteKit Android Challenge</string>
+    <string name="logged_in">Logged in as</string>
+    <string name="login_cancelled">Login attempt cancelled.</string>
+    <string name="login_failed">Login attempt failed.</string>
+    <string name="ritekit_client_id">1578fa840b1df1b2ea56c49a1043c68e87c1e8450ce6</string>
+    <string name="ritekit_client_secret">734b90c7cf64736df5732e2296b6b19cb02cbff328a5c9825ecf82ca1c70bf2b</string>
+    <string name="no_internet">Terribly sorry, but it seems there is no internet connection.</string>
+    <string name="no_hashtags">No hashtags have been found.</string>
+    <string name="no_influencers">No influencers have been found.</string>
+    <string name="trending_hashtags">Trending Hashtags</string>
+    <string name="influencers">Top Influencers</string>
+    <string name="unclickable">Nothing to click here.</string>
+</resources>
